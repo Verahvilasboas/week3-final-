@@ -139,7 +139,6 @@ p {
 @media (min-width: 576px) {
   img{
 display: none;
-padding: 20, 16px;
-margin: 36px;
   }
 
+}
